@@ -1,0 +1,12 @@
+Data_input/DHLabData.csv
+Data_input/RAW_interactions.csv
+Data_input/RAW_recipes.csv
+Data_modelling/y_val.csv
+Data_modelling/y_train.csv
+Data_modelling/y_test.csv
+Data_output/DHLdf_cosine.csv
+Data_modelling/X_val.csv
+Data_modelling/X_train.csv
+Data_modelling/X_test.csv
+Data_output/DKdf_LinearSVR.csv
+Data_output/translated_DHLabData.csv
